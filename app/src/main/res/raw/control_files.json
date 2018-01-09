@@ -77,6 +77,14 @@
     "details": "Motorola Defy+ (MB526)",
     "chargeOn": "Charging",
     "chargeOff": "Discharging",
+    "experimental": false
+  },
+  {
+    "file": "/sys/class/power_supply/battery/status",
+    "label": "status",
+    "details": "Neffos C5",
+    "chargeOn": "Charging",
+    "chargeOff": "Not charging",
     "experimental": true
   },
   {
